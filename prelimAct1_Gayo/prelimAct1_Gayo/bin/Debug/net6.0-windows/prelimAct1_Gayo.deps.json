@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "prelimAct1_Gayo/1.0.0": {
+        "runtime": {
+          "prelimAct1_Gayo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prelimAct1_Gayo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

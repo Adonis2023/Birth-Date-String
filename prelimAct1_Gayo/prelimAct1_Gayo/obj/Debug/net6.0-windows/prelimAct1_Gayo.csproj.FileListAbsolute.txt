@@ -1,0 +1,51 @@
+C:\Users\LENOVO\source\repos\prelimAct1_Gayo\prelimAct1_Gayo\bin\Debug\net6.0-windows\prelimAct1_Gayo.exe
+C:\Users\LENOVO\source\repos\prelimAct1_Gayo\prelimAct1_Gayo\bin\Debug\net6.0-windows\prelimAct1_Gayo.deps.json
+C:\Users\LENOVO\source\repos\prelimAct1_Gayo\prelimAct1_Gayo\bin\Debug\net6.0-windows\prelimAct1_Gayo.runtimeconfig.json
+C:\Users\LENOVO\source\repos\prelimAct1_Gayo\prelimAct1_Gayo\bin\Debug\net6.0-windows\prelimAct1_Gayo.dll
+C:\Users\LENOVO\source\repos\prelimAct1_Gayo\prelimAct1_Gayo\bin\Debug\net6.0-windows\prelimAct1_Gayo.pdb
+C:\Users\LENOVO\source\repos\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.Form1.resources
+C:\Users\LENOVO\source\repos\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.dll
+C:\Users\LENOVO\source\repos\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\refint\prelimAct1_Gayo.dll
+C:\Users\LENOVO\source\repos\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.pdb
+C:\Users\LENOVO\source\repos\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\ref\prelimAct1_Gayo.dll
+C:\Users\LENOVO\Downloads\prelimAct1_Gayo-20230321T093625Z-001\prelimAct1_Gayo\prelimAct1_Gayo\bin\Debug\net6.0-windows\prelimAct1_Gayo.exe
+C:\Users\LENOVO\Downloads\prelimAct1_Gayo-20230321T093625Z-001\prelimAct1_Gayo\prelimAct1_Gayo\bin\Debug\net6.0-windows\prelimAct1_Gayo.deps.json
+C:\Users\LENOVO\Downloads\prelimAct1_Gayo-20230321T093625Z-001\prelimAct1_Gayo\prelimAct1_Gayo\bin\Debug\net6.0-windows\prelimAct1_Gayo.runtimeconfig.json
+C:\Users\LENOVO\Downloads\prelimAct1_Gayo-20230321T093625Z-001\prelimAct1_Gayo\prelimAct1_Gayo\bin\Debug\net6.0-windows\prelimAct1_Gayo.dll
+C:\Users\LENOVO\Downloads\prelimAct1_Gayo-20230321T093625Z-001\prelimAct1_Gayo\prelimAct1_Gayo\bin\Debug\net6.0-windows\prelimAct1_Gayo.pdb
+C:\Users\LENOVO\Downloads\prelimAct1_Gayo-20230321T093625Z-001\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\prelimAct1_Gayo-20230321T093625Z-001\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.Form1.resources
+C:\Users\LENOVO\Downloads\prelimAct1_Gayo-20230321T093625Z-001\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\prelimAct1_Gayo-20230321T093625Z-001\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\prelimAct1_Gayo-20230321T093625Z-001\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\prelimAct1_Gayo-20230321T093625Z-001\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\prelimAct1_Gayo-20230321T093625Z-001\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\prelimAct1_Gayo-20230321T093625Z-001\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.dll
+C:\Users\LENOVO\Downloads\prelimAct1_Gayo-20230321T093625Z-001\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\refint\prelimAct1_Gayo.dll
+C:\Users\LENOVO\Downloads\prelimAct1_Gayo-20230321T093625Z-001\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.pdb
+C:\Users\LENOVO\Downloads\prelimAct1_Gayo-20230321T093625Z-001\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\prelimAct1_Gayo-20230321T093625Z-001\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\ref\prelimAct1_Gayo.dll
+F:\Complexity & Algorithm\prelimAct1_Gayo-\prelimAct1_Gayo\prelimAct1_Gayo\bin\Debug\net6.0-windows\prelimAct1_Gayo.exe
+F:\Complexity & Algorithm\prelimAct1_Gayo-\prelimAct1_Gayo\prelimAct1_Gayo\bin\Debug\net6.0-windows\prelimAct1_Gayo.deps.json
+F:\Complexity & Algorithm\prelimAct1_Gayo-\prelimAct1_Gayo\prelimAct1_Gayo\bin\Debug\net6.0-windows\prelimAct1_Gayo.runtimeconfig.json
+F:\Complexity & Algorithm\prelimAct1_Gayo-\prelimAct1_Gayo\prelimAct1_Gayo\bin\Debug\net6.0-windows\prelimAct1_Gayo.dll
+F:\Complexity & Algorithm\prelimAct1_Gayo-\prelimAct1_Gayo\prelimAct1_Gayo\bin\Debug\net6.0-windows\prelimAct1_Gayo.pdb
+F:\Complexity & Algorithm\prelimAct1_Gayo-\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.csproj.AssemblyReference.cache
+F:\Complexity & Algorithm\prelimAct1_Gayo-\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.Form1.resources
+F:\Complexity & Algorithm\prelimAct1_Gayo-\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.csproj.GenerateResource.cache
+F:\Complexity & Algorithm\prelimAct1_Gayo-\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Complexity & Algorithm\prelimAct1_Gayo-\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.AssemblyInfoInputs.cache
+F:\Complexity & Algorithm\prelimAct1_Gayo-\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.AssemblyInfo.cs
+F:\Complexity & Algorithm\prelimAct1_Gayo-\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.csproj.CoreCompileInputs.cache
+F:\Complexity & Algorithm\prelimAct1_Gayo-\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.dll
+F:\Complexity & Algorithm\prelimAct1_Gayo-\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\refint\prelimAct1_Gayo.dll
+F:\Complexity & Algorithm\prelimAct1_Gayo-\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.pdb
+F:\Complexity & Algorithm\prelimAct1_Gayo-\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\prelimAct1_Gayo.genruntimeconfig.cache
+F:\Complexity & Algorithm\prelimAct1_Gayo-\prelimAct1_Gayo\prelimAct1_Gayo\obj\Debug\net6.0-windows\ref\prelimAct1_Gayo.dll
